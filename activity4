@@ -59,7 +59,7 @@ const listItems = names.map(function(name) {
 console.log(listItems);
 
 // example 9
-const words = ["apple", "banana", "cherry", "date"];
+const word = ["apple", "banana", "cherry", "date"];
 const lengths = words.map(function(word) {
   return word.length;
 });
