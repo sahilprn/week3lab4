@@ -62,7 +62,7 @@ console.log(listItems);
 const word = ["apple", "banana", "cherry", "date"];
 const lengths = words.map(function(word) {
   return word.length;
-});
+}); 
 console.log(lengths);
 
 // example 10
